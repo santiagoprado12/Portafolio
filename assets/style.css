@@ -6,6 +6,9 @@
   }
   .profileimg:hover {
     border-radius: 100%;
-    width: 30%;
+    width: 35%;
     filter: grayscale(0%) brightness(1);
+  }
+  .col:hover{
+    box-shadow: 10px 10px 10px #adadad
   }
