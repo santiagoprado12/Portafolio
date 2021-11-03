@@ -1,11 +1,11 @@
 .profileimg{
     border-radius: 100%;
     width: 30%;
-    filter: grayscale(100%);
+    filter: grayscale(100%) brightness(1.1);
     border: 2px solid rgb(185, 185, 185);
   }
   .profileimg:hover {
     border-radius: 100%;
     width: 30%;
-    filter: grayscale(0%);
+    filter: grayscale(0%) brightness(1);
   }
